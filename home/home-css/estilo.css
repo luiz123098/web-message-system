@@ -1,0 +1,56 @@
+* {
+    font: normal 15px arial;
+}
+
+body {
+    background-color: #76783D;
+}
+
+#message-app {
+    text-align: center;
+}
+
+#chat-card {
+    width: 1140px;
+    margin: auto;
+    margin-top: 8%;
+    display: flex;    
+    background-color: #F1F734;
+    box-shadow: 5px 5px 5px black;
+}
+
+#side-bar {
+    width: 90px;
+}
+
+#line-side-bar {
+    margin: auto;
+    width: 2px;
+    height: 650px;
+    padding: .1px;
+    background-color: black;
+}
+
+.logo-square {
+    margin: 10px;
+    color: white;
+    background-color: #757819;
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px 5px;
+}
+
+.icon-buttons {
+    text-align: center;
+    display: flex;    
+    margin: 5px;
+    background-color: #76783D;
+    border: none;
+    border-radius: 5px 5px;
+}
+
+#message-group {
+    width: 349px;
+}
